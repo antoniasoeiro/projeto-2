@@ -6,3 +6,5 @@ st.write("""
 # My first app 
 Hello *world!*
 """)
+
+st.input("Digite seu nome:")
