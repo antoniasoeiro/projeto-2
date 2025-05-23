@@ -21,7 +21,7 @@ if prof == "Josir":
 
 disciplina = st.selectbox(
     "Qual a sua disciplina preferida do 1 período?",
-    ("Ciências de Dados", "Ciências Sociais", "Comunicação e Cultura Digital", "Programação", "Teorias da Comunicação")
+    ("Ciências de Dados", "Ciências Sociais", "Comunicação e Cultura Digital", "Programação", "Teorias da Comunicação"),
 )
 
 if disciplina == "Programação":
