@@ -7,4 +7,4 @@ st.write("""
 Hello *world!*
 """)
 
-st.input("Digite seu nome:")
+st.text_input("Digite seu nome:")
