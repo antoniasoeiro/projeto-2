@@ -16,4 +16,5 @@ option = st.selectbox(
     ("Eurico", "Josir", "Matheus", "Renata", "Victor"),
 )
 
-st.write("Você escolheu:", option)
+if option == "Josir"
+    st.write("Ótima escolha!")
