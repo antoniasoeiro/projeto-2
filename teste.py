@@ -8,3 +8,4 @@ Hello *world!*
 """)
 
 st.text_input("Digite seu nome:")
+st.write("Que nome legal!")
