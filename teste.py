@@ -16,7 +16,7 @@ prof = st.selectbox(
     ("Eurico", "Josir", "Matheus", "Renata", "Victor"),
 )
 
-if prof == "Josir":
+if prof.lower() == "josir":
     st.write("Ótima escolha!")
 
 disciplina = st.selectbox(
